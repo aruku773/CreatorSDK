@@ -21,4 +21,8 @@ public class DBOperations{
         return "ValueSucess"
     }
     
+     public  func getFaceValue() ->String{
+        return "ValueSucess"
+    }
+    
 }
