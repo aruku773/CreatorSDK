@@ -18,7 +18,7 @@ public class DBOperations{
     
     
  public  func getValue() ->String{
-        return "ValueSucess"
+        return "1234"
     }
     
      public  func getFaceValue() ->String{
