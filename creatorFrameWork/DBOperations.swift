@@ -9,15 +9,15 @@
 import Foundation
 
 
-class DBOperations{
+public class DBOperations{
 
 
-    static func getData() -> String{
+ public   static func getData() -> String{
      return "Sucess"
     }
     
     
-   func getValue() ->String{
+ public  func getValue() ->String{
         return "ValueSucess"
     }
     

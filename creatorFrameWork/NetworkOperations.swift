@@ -9,11 +9,11 @@
 import Foundation
 
 
-class NetworkOperations{
+public class NetworkOperations{
     
     
     
-    static func getData() -> String{
+ public   static func getData() -> String{
         return "Sucess"
     }
 }

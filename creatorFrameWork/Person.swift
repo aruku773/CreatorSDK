@@ -9,7 +9,7 @@
 import Foundation
 
 
-class Person{
+public class Person{
 
     var name:String = ""
     

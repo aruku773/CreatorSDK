@@ -36,6 +36,4 @@ s.dependency 'MBProgressHUD', '~> 0.9.0'
 # 8
 s.source_files = "creatorFrameWork/**/*.{swift}"
 
-# 9
-s.resources = "creatorFrameWork/**/*.{png,jpeg,jpg,storyboard,xib}"
 end
