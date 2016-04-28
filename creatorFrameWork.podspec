@@ -34,8 +34,6 @@ s.dependency 'Alamofire', '~> 2.0'
 s.dependency 'MBProgressHUD', '~> 0.9.0'
 
 # 8
-#s.source_files = "creatorFrameWork/**/*.{swift}"
-s.source_files = "creatorFrameWork","creatorFrameWork/{Test}/**/*.swift"
-
+s.source_files = "creatorFrameWork/**/*"
 
 end
