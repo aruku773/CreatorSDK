@@ -20,4 +20,8 @@ public class NetworkOperations{
     public  func getUpdatedDevelopBranchInNetwork() ->String{
         return "getUpdatedDevelopBranchInNetwork"
     }
+    
+    public  func getNewMethod() ->String{
+        return "getNewMethod"
+    }
 }

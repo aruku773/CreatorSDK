@@ -29,4 +29,8 @@ public class DBOperations{
     public  func getUpdatedDevelopBranch() ->String{
         return "getUpdatedDevelopBranch"
     }
+    
+    public  func getNewMethod() ->String{
+        return "getNewMethod"
+    }
 }
