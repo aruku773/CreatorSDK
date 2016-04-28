@@ -33,4 +33,12 @@ public class DBOperations{
     public  func getNewMethod() ->String{
         return "getNewMethod"
     }
+    
+    public  func getNewMethod1() ->String{
+        return "getNewMethod1"
+    }
+    
+    public  func getNewMethod2() ->String{
+        return "getNewMethod1"
+    }
 }
