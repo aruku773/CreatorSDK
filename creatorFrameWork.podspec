@@ -25,7 +25,7 @@ s.homepage = "https://github.com/aruku773/CreatorSDK"
 
 
 # 6 - Replace this URL with your own Git URL from "Quick Setup"
-s.source = { :git => "https://github.com/aruku773/CreatorSDK.git", :tag => "#{s.version}"}
+s.source = { :git => "https://github.com/aruku773/CreatorSDK.git", :branch => "master"}
 
 
 # 7
@@ -34,6 +34,8 @@ s.dependency 'Alamofire', '~> 2.0'
 s.dependency 'MBProgressHUD', '~> 0.9.0'
 
 # 8
-s.source_files = "creatorFrameWork/**/*.{swift}"
+#s.source_files = "creatorFrameWork/**/*.{swift}"
+s.source_files = "creatorFrameWork","creatorFrameWork/{Test}/**/*.swift"
+
 
 end
