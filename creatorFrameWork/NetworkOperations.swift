@@ -16,4 +16,8 @@ public class NetworkOperations{
  public   static func getData() -> String{
         return "Sucess"
     }
+    
+    public  func getUpdatedDevelopBranchInNetwork() ->String{
+        return "getUpdatedDevelopBranchInNetwork"
+    }
 }
