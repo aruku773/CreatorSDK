@@ -35,5 +35,6 @@ s.dependency 'MBProgressHUD', '~> 0.9.0'
 
 # 8
 s.source_files = "creatorFrameWork/**/*"
+s.preserve_paths = "*" 
 
 end
